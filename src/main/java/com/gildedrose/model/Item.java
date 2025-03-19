@@ -1,7 +1,7 @@
-package com.gildedrose;
+package com.gildedrose.model;
 
 public class Item {
-
+    //TODO: Use getters and setters
     public String name;
 
     public int sellIn;
